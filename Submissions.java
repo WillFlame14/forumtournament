@@ -1,5 +1,3 @@
-package submissions;
-
 import java.time.*;
 
 public class Submissions {
